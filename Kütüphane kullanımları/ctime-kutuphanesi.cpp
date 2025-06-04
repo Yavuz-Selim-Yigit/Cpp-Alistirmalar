@@ -115,16 +115,5 @@ int main()
 
 #pragma endregion
 
-#pragma region ""
-
-#pragma endregion
-
-#pragma region ""
-
-#pragma endregion
-
-#pragma region ""
-
-#pragma endregion
     return 0;
 }
